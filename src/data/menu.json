@@ -1,0 +1,21 @@
+{
+  "navigation": [
+    {
+      "title": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "title": "About",
+      "url": "/about/"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact/"
+    },
+    {
+      "title": "Sample page",
+      "url": "/content-page/"
+    }
+  ],
+  "id": "b89feac4-c7c9-40f9-8cdd-625cd3e3db02"
+}
