@@ -10,7 +10,7 @@ header:
     heading: Heading here...
     image: /img/943-2560x1440.jpg
 ---
-# h1 Heading 8-)
+# h1 Heading ❤️
 
 ## h2 Heading
 
